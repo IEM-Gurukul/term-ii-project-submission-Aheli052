@@ -1,0 +1,6 @@
+Project Features:
+1. Person Base Class
+2. Student and Teacher Inheritance
+3. Attendance System Logic
+4. Status and Message Utilities
+5. 100% Tested and Verified
